@@ -13,7 +13,7 @@ D. **Data Story:** Key insights from the analysis for decision-making.
 ---
 
 ## **Dataset**
-The dataset consists of **458 rows and 9 columns**, covering employee attributes like **Name,Team,Number,Position,Age,Height,Weight,College,Salary,**.  
+The dataset consists of **458 rows and 10 columns**, covering employee attributes like **Name,Team,Number,Position,Age,Height,Weight,College,Salary,**.  
 **File:** `ABC_Employees.csv`  
 
 ---
