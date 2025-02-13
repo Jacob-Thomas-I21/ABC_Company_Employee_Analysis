@@ -51,18 +51,18 @@ The dataset consists of **458 rows and 9 columns**, covering employee attributes
 
 
 
-### **1️⃣Clone the Repository**
+### **Clone the Repository**
 ```sh
 git clone https://github.com/your-username/ABC_Company_Analysis.git
 cd ABC_Company_Analysis
 ```
 
-### **2️⃣Install Dependencies**
+### **Install Dependencies**
 ```sh
 pip install pandas numpy matplotlib seaborn
 ```
 
-### **3️⃣Run the Jupyter Notebook**
+### **Run the Jupyter Notebook**
 ```sh
 jupyter notebook ABC_Company_Analysis.ipynb
 ```
@@ -72,15 +72,15 @@ jupyter notebook ABC_Company_Analysis.ipynb
 ## **File Structure**
 ```
  ABC_Company_Analysis/
-├──  ABC_Employees.csv          # Dataset File
-├──  ABC_Company_Analysis.ipynb # Jupyter Notebook with Code & Analysis
-├──  README.md                  # Project Documentation (This File)
+├──  ABC_Employees.csv           # Dataset File
+├──  ABC_Company_Analysis.ipynb  # Jupyter Notebook with Code & Analysis
+├──  README.md                   # Project Documentation (This File)
 ```
 
 ---
 
 ## **Contribution & Acknowledgements**
-- **Project By:** Jacob  
+- **Project By:** Jacob Thomas Joshy
 - Data provided by **ABC Company** for analysis purposes.  
 
 ---
